@@ -1,7 +1,7 @@
+# Roadmap
 
----
+***
 
-### **6_roadmap.md**
 ```markdown
 # 🗺️ Our Roadmap to Revolution
 
@@ -12,3 +12,4 @@
 | Q2 2026 | AI Vaults + Governance |
 | Q3 2026 | Cross-chain Expansion |
 | Q4 2026 | Mobile App + AI Model V2 |
+```

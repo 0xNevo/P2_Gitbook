@@ -1,6 +1,22 @@
-# 🧠 Predictive Perpetuals (P²) Docs
+---
+description: >-
+  Welcome to the Predictive Perpetuals Docs — the home of the first AI-powered
+  perpetual prediction market.
+cover: .gitbook/assets/dragon.png
+coverY: 0
+---
 
-Welcome to the Predictive Perpetuals documentation. This repo contains user, developer, and governance docs for **P² Market**, the AI-driven predictive perpetual exchange built on Solana.
+# Introduction
 
-> Trade probabilities as leveraged perpetuals — a new asset class that turns market beliefs into tradable instruments.
+Trade the **probability of future real-world events** with leverage, dynamic funding, and on-chain governance.
 
+> Predictive Perpetuals (P²) merges prediction markets and perpetual DEXs into one — creating a new way to trade _beliefs as assets_.
+
+***
+
+## Quick Links
+
+* 🌐 [Website](https://yourdomain.com)
+* 💰 [Buy $P2 Token](./)
+* 🧪 [Demo App](./)
+* 🗺️ [Roadmap](6_roadmap.md)
