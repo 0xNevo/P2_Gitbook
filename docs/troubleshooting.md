@@ -17,7 +17,7 @@ This guide covers the most common problems traders and developers might encounte
 
 **Quick Fix**
 
-1. Refresh the page and reopen your wallet (Phantom, Solflare, or Backpack).
+1. Refresh the page and reopen your wallet.
 2. Ensure you’re on the **Binance Mainnet** or the designated **Testnet**.
 3. Clear browser cache or try an incognito window.
 4. If using mobile, open the site directly from the wallet’s in-app browser.

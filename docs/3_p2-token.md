@@ -1,10 +1,36 @@
-# $P2 Token Presale Information
+# $P2 Token
 
-Welcome to the **official presale guide** for the **$P2 Token**, the native asset powering the **Predictive Perpetuals (P²)** ecosystem.
+## 1. Overview
 
-This page explains how the presale works, how to participate safely, and what to expect before, during, and after launch.
+**$P2** is the **native utility and governance token** of the Predictive Perpetuals ecosystem.
+
+It powers trading, AI governance, and community-driven protocol evolution.
 
 ***
+
+### 🔹 Quick Facts
+
+* **Token Name:** Predictive Perpetuals Token
+* **Ticker:** $P2
+* **Chain:** Binance
+* **Utility:** Collateral, Fee Discounts, Governance, AI Access
+
+
+
+## 2. $P2 Token Utility
+
+$P2 serves as the lifeblood of Predictive Perpetuals. It provides:
+
+* 🪙 **Fee Discounts** for traders
+* 💎 **Collateral** for leveraged positions
+* 🧠 **Governance Rights** to influence AI parameters
+* 🪄 **Access to AI Vaults** and signal-based strategies
+* 🛡️ **Insurance Pool Staking** for ecosystem security
+* 🔥 **Buyback & Burn Mechanism** for deflationary pressure
+
+
+
+## 3. $P2 Token Presale Information
 
 ## 🌐 Overview
 
@@ -130,7 +156,7 @@ $P2 token powers the Predictive Perpetuals ecosystem by enabling:
 | **Insurance Pool Staking** | Earn rewards while backing protocol solvency                 |
 | **Buyback & Burn**         | Deflationary mechanism from protocol revenue                 |
 
-Read more in 👉 [Token Utility](token-utility.md)
+Read more in 👉 [Token Utility](broken-reference)
 
 ***
 
@@ -138,17 +164,6 @@ Read more in 👉 [Token Utility](token-utility.md)
 
 The $P2 token presale is conducted for the purpose of supporting ecosystem development and participation in governance.\
 $P2 **does not** represent equity, debt, or legal ownership in any entity.\
-Participants should carefully review all materials before contributing.
+Participants should carefully review all materials before contributing.\
 
-***
 
-## 🔗 Quick Links
-
-* 🌍 [Official Website](https://p2market.ai)
-* 🧾 [Whitepaper (PDF)](../whitepaper.pdf)
-* 💬 [Join Telegram](https://t.me/p2market)
-* 🐦 [Follow on X](https://x.com/p2market)
-
-***
-
-> 💬 _“Predict the future — not just with belief, but with leverage.”_

@@ -14,6 +14,13 @@ Trade the **probability of future real-world events** with leverage, dynamic fun
 
 ***
 
+\
+Predictive Perpetuals (P²) let traders speculate not on _what happens_, but on _how likely_ it is to happen.
+
+Each market tracks a **probability index (0–1)** representing the collective belief of an event occurring.
+
+> Instead of betting “yes” or “no”, you can go long or short on _the probability itself_ — with leverage and real-time PnL.
+
 ## Quick Links
 
 * 🌐 [Website](https://yourdomain.com)

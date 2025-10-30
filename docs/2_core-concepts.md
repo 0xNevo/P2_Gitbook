@@ -1,4 +1,17 @@
-# Probability Index (P-Index)
+# Core Concepts
+
+## 1. AI-Driven Funding & Risk Control
+
+The **AI Risk Engine** dynamically adjusts:
+
+* Funding rates based on volatility and imbalance.
+* Oracle weighting for data accuracy.
+* Sentiment signals from social and on-chain data.
+
+This ensures fair, self-balancing markets and mitigates manipulation or thin-liquidity spikes.\
+
+
+## 2. Probability Index (P-Index)
 
 The **Probability Index (P-Index)** is the core metric powering **Predictive Perpetuals (P²)**.\
 It represents the **market-implied probability** of a future event or directional outcome — dynamically updated in real time using price, sentiment, and AI models.
@@ -93,7 +106,7 @@ Example:
 > Later P-Index = 0.55 → gain of 0.10 × 10,000 = **1,000 P2USD**
 
 Learn more about how this affects liquidation and margin in\
-👉 [Mark-to-Market & Liquidation](mark-to-market-and-liquidation.md)
+👉 [Mark-to-Market & Liquidation](2_core-concepts/mark-to-market-and-liquidation.md)
 
 ***
 
